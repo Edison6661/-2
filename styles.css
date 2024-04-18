@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.blue-background {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+
+.university-logo {
+    text-align: center;
+}
+
+.profile-picture {
+    float: right;
+    margin-right: 20px;
+}
+
+.profile-picture img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.content {
+    background-color: white;
+    padding: 20px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.rounded-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
